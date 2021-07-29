@@ -40,10 +40,7 @@ Transform, and Load** process and includes the following:
 <p align="center">
    <img width="400" height="300" src="https://github.com/mjrotter4445/Movie-ETL/blob/main/Resources/use%20this%20one.png">
 #</p>   
-#title below the image 
-#<p align="center">
-#Table with “xxe” exxxates
-#</p>
+
 
     
 ### Resources
