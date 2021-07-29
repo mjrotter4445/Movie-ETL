@@ -47,14 +47,14 @@ Table with “xxe” exxxates
 
     
 ### Resources
-Data Sources
-    -  Wikipedia and Kaggle 
-Environment & Software
-    -  Python 3.7
-    -  Jupyter Notebook
-    -  PostgreSQL and PgAdmin
-Dependencies
-    -  
+ Data Sources:
+   -  Wikipedia and Kaggle 
+ Environment & Software
+   -  Python 3.7
+   -  Jupyter Notebook
+   -  PostgreSQL and PgAdmin
+ Dependencies
+   -  
 
 ### Results - see examples and make the pngs next
  
