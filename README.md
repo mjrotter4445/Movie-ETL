@@ -34,6 +34,18 @@ Transform, and Load** process and includes the following:
     -  At completion, we connect the database by **sqlalchemy library** and 
        **to_sql** method.  
     -  Complete ETL_process is executed with **extract_tranform_load** function. 
+
+
+</p>  
+<p align="center">
+   <img width="400" height="200" src="xxxxx.png">
+</p>   
+#title below the image 
+<p align="center">
+Table with “xxe” exxxates
+</p>
+
+    
 ### Resources
     Data Sources
     -  Wikipedia and Kaggle 
