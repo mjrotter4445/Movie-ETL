@@ -35,10 +35,9 @@ Transform, and Load** process and includes the following:
        **to_sql** method.  
    -  Complete ETL_process is executed with **extract_tranform_load** function. 
 
-
 </p>  
 <p align="center">
-   <img width="400" height="300" src="https://github.com/mjrotter4445/Movie-ETL/blob/main/Resources/use%20this%20one.png">
+<img width="300" height="200" src="https://github.com/mjrotter4445/Movie-ETL/blob/main/Resources/use%20this%20one.png">
 </p>   
 
 
