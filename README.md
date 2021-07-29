@@ -9,10 +9,10 @@ will become popular.  Participants of a hackathon need clean data. Below,
 we will provide an organized and clean dataset using ETL or **Extract, 
 Transform, and Load** process and includes the following:
     -  Extracting data from two different sources.  
-       - web scrape of wikipedia website for all movies released since 1990
-       - data from Kaggle website for rating data.
-    -  Transforming data using Jypter Notebook, Python, Pandas, and Python Regex.
-    -  Loading data using PostgreSQL and pgAdmin to host final cleaned data set. 
+       - web scrape of **wikipedia** website for all movies released since 1990
+       - data from **Kaggle** website for rating data.
+    -  Transforming data using **Jypter Notebook, Python, Pandas, and Python Regex.**
+    -  Loading data using **PostgreSQL** and **pgAdmin** to host final cleaned data set. 
 
 ### Overview of the Code and process used
 1. ETL_function_test_ipnyb
