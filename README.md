@@ -31,9 +31,9 @@ Transform, and Load** process and includes the following:
        - datatypes are standardized, missing values are filtered, 
          a dataframes merged.  
 4.  ETL_create_database.ipynb
-    -  At completion, we connect the database by **sqlalchemy library** and 
+   -  At completion, we connect the database by **sqlalchemy library** and 
        **to_sql** method.  
-    -  Complete ETL_process is executed with **extract_tranform_load** function. 
+   -  Complete ETL_process is executed with **extract_tranform_load** function. 
 
 
 </p>  
@@ -47,13 +47,13 @@ Table with “xxe” exxxates
 
     
 ### Resources
-    Data Sources
+Data Sources
     -  Wikipedia and Kaggle 
-    Environment & Software
+Environment & Software
     -  Python 3.7
     -  Jupyter Notebook
     -  PostgreSQL and PgAdmin
-    Dependencies
+Dependencies
     -  
 
 ### Results - see examples and make the pngs next
