@@ -14,7 +14,7 @@ Transform, and Load** process and includes the following:
    -  Loading data using **PostgreSQL** and **pgAdmin** to host final cleaned data set. 
 </p>  
 <p align="center">
-<img width="300" height="200" src="https://github.com/mjrotter4445/Working-File/blob/main/nice%20diagramETL.png">
+<img width="300" height="200" src="https://github.com/mjrotter4445/Movie-ETL/blob/main/Resources/nice%20diagramETL.png">
 </p>   
 
 ### Overview of the Code and process used
